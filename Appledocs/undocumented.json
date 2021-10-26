@@ -1,0 +1,593 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 25,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 28,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 31,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/AppDelegate.swift",
+      "line": 37,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/BaseClasses/ProductCartBase.swift",
+      "line": 14,
+      "symbol": "ProductCartBase.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/NoInternetController.swift",
+      "line": 14,
+      "symbol": "NoInternetController.imgViewForNoInternetConnection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/NoInternetController.swift",
+      "line": 15,
+      "symbol": "NoInternetController.lblForTitleMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/NoInternetController.swift",
+      "line": 16,
+      "symbol": "NoInternetController.lblForTitleDesc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/NoInternetController.swift",
+      "line": 17,
+      "symbol": "NoInternetController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 15,
+      "symbol": "ProductCartController.tblViewForProductDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 16,
+      "symbol": "ProductCartController.scrollViewForCart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 17,
+      "symbol": "ProductCartController.tblViewHeightConstraints",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 18,
+      "symbol": "ProductCartController.viewForProductPriceDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 19,
+      "symbol": "ProductCartController.productCostDetailTopConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 20,
+      "symbol": "ProductCartController.viewForActivityIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 21,
+      "symbol": "ProductCartController.activityIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 23,
+      "symbol": "ProductCartController.lblForNumberofItems",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 24,
+      "symbol": "ProductCartController.lblForTotalNumberofItems",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 25,
+      "symbol": "ProductCartController.viewForCostDetail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 26,
+      "symbol": "ProductCartController.lblForPriceDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 28,
+      "symbol": "ProductCartController.lblForTotalMRP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 29,
+      "symbol": "ProductCartController.lblForDeliveryCharges",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 30,
+      "symbol": "ProductCartController.lblForProductTotal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 32,
+      "symbol": "ProductCartController.lblForProductTotalPrice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 33,
+      "symbol": "ProductCartController.imgViewForArrow",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 34,
+      "symbol": "ProductCartController.btnForCheckout",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 35,
+      "symbol": "ProductCartController.viewForCheckoutButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 37,
+      "symbol": "ProductCartController.imgForArrow",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 38,
+      "symbol": "ProductCartController.userId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 39,
+      "symbol": "ProductCartController.productCartArray",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 40,
+      "symbol": "ProductCartController.productTotalCost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 41,
+      "symbol": "ProductCartController.productDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 42,
+      "symbol": "ProductCartController.cost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 43,
+      "symbol": "ProductCartController.deliveryCost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 44,
+      "symbol": "ProductCartController.isFromShopNow",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 45,
+      "symbol": "ProductCartController.currentProductCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 46,
+      "symbol": "ProductCartController.totalMRPofProduct",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 47,
+      "symbol": "ProductCartController.totalCostDict",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 49,
+      "symbol": "ProductCartController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 58,
+      "symbol": "ProductCartController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 61,
+      "symbol": "ProductCartController.viewDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 64,
+      "symbol": "ProductCartController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 257,
+      "symbol": "ProductCartController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 260,
+      "symbol": "ProductCartController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Controller/ProductCartController.swift",
+      "line": 266,
+      "symbol": "ProductCartController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/APIs.swift",
+      "line": 17,
+      "symbol": "APIs.HOST_API",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/APIs.swift",
+      "line": 197,
+      "symbol": "NSMutableData.appendString(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/APIs.swift",
+      "line": 204,
+      "symbol": "GetApiConfig.URL_INDEX",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/APIs.swift",
+      "line": 205,
+      "symbol": "GetApiConfig.URL_IDENTIFIER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/APIs.swift",
+      "line": 206,
+      "symbol": "GetApiConfig.execute()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 16,
+      "symbol": "API.GET_ALL_PRODUCT_FOR_CART",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 17,
+      "symbol": "API.POST_UPDATE_QUANTITY_FOR_PRODUCT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 18,
+      "symbol": "API.POST_REMOVE_PRODUCT_FROM_CART",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 23,
+      "symbol": "AlertMessage.CHECKOUT_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 24,
+      "symbol": "AlertMessage.CHECKOUT_DESC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 26,
+      "symbol": "AlertMessage.SHOP_NOW_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 27,
+      "symbol": "AlertMessage.SHOP_NOW_DESC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 32,
+      "symbol": "ErrorMessage.NETWORK_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 33,
+      "symbol": "ErrorMessage.NETWORK_DESC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 35,
+      "symbol": "ErrorMessage.SERVER_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 36,
+      "symbol": "ErrorMessage.SERVER_DESC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 38,
+      "symbol": "ErrorMessage.EMPTY_TITLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 39,
+      "symbol": "ErrorMessage.EMPTY_DESC",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 44,
+      "symbol": "ActionTitle.OK",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 45,
+      "symbol": "ActionTitle.CANCEL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 49,
+      "symbol": "StatusCode.SUCCESS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 50,
+      "symbol": "StatusCode.FAILER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/ConstantStrings.swift",
+      "line": 51,
+      "symbol": "StatusCode.USER_NOT_EXIST",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/Extension/UtilitiesExtensionsViewController.swift",
+      "line": 13,
+      "symbol": "UIView.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/Extension/UtilitiesExtensionsViewController.swift",
+      "line": 23,
+      "symbol": "UIView.borderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/Extension/UtilitiesExtensionsViewController.swift",
+      "line": 32,
+      "symbol": "UIView.borderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/Utilities/GeneralClass.swift",
+      "line": 70,
+      "symbol": "GeneralClass.check_null_values(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 14,
+      "symbol": "ProductCartTableViewCell.lblForProductName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 15,
+      "symbol": "ProductCartTableViewCell.lblForProductCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 16,
+      "symbol": "ProductCartTableViewCell.lblForProductQuantity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 17,
+      "symbol": "ProductCartTableViewCell.lblForProductPrice",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 18,
+      "symbol": "ProductCartTableViewCell.lblForProductCountIncDecr",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 19,
+      "symbol": "ProductCartTableViewCell.viewForProductDetails",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 20,
+      "symbol": "ProductCartTableViewCell.viewForCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 21,
+      "symbol": "ProductCartTableViewCell.btnForDecrement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug/IOSmCommerceCartPlug/Classes/View/ProductCartTableViewCell.swift",
+      "line": 22,
+      "symbol": "ProductCartTableViewCell.btnForIncrement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/heena/Desktop/Native Plugs/IOSmCommerceCartPlug"
+}

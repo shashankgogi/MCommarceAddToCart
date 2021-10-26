@@ -1,0 +1,7 @@
+
+target 'IOSmCommerceCartPlug' do
+    
+    pod 'AlamofireImage', '~> 3.0'
+    pod 'SwiftLint'
+    use_frameworks!
+end

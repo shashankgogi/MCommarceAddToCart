@@ -1,0 +1,6 @@
+framework module Pods_IOSmCommerceCartPlug {
+  umbrella header "Pods-IOSmCommerceCartPlug-umbrella.h"
+
+  export *
+  module * { export * }
+}
